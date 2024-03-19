@@ -1,0 +1,7 @@
+/* Define @font-face */
+@font-face {
+    font-family: 'Mansalva'; /* Name of the font family */
+    src: url('./font/Mansalva-Regular.ttf') format('woff2'), /* Specify the path to your font file */
+         url('./font/Mansalva-Regular.ttf') format('woff'); /* Provide fallbacks for different font formats */
+    /* You can add more src declarations for additional formats like .ttf or .otf */
+}
